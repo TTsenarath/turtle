@@ -112,7 +112,7 @@ document.querySelector(".card-number-input").oninput = () => {
     } else if (number == 0) {
       alert("invalid card number");
     } else {
-      window.location.href = "confirmation.html";
+      window.location.href = "Confirmation.html";
     }
   }
   
